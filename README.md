@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Day Manhanini!  
-- 🌱 Atualmente estou aprendendo GitHub e programação.  
+- 🌱 Atualmente estou aprendendo programação.  
 - 🔒 Interessada em cibersegurança e Python.  
 - 🎯 Objetivo: Contribuir para projetos de código aberto.
   
